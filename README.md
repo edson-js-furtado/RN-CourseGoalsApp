@@ -1,6 +1,6 @@
-# REACT NATIVE | IN PRATICE
+# REACT NATIVE | GOALS APP
 
-In this section, I will put on pratice concepts about react-native, the mobile development framework for Android and iOS.
+In this section, I will put on pratice concepts about react-native, the mobile development framework for Android and iOS to develop a simple course goals app.
 
 THE MAIN TOPICS ARE:
 
@@ -8,20 +8,14 @@ THE MAIN TOPICS ARE:
 
 • How to use React, JavaScript and native components
 
-• Understand how to navigate in React Native apps
+• Expo CLI vs React Native CLI
 
-• A closer look at styling and animating React Native apps
+• Running App on real a device
 
-• Instructions on how to use third-party libraries in your React Native app
+• Styling React Native Apps
 
-• Detailed examples on how to use maps or an image picker
+• Optimizing Lists with Flatlist
 
-• A full user authentication flow
+• Utilizing Props
 
-• How to connect to a backend server from your app
-
-• Debugging instructions
-
-• Publising Apps on Store
-
-• And so much more!
+• Model screen (openning and closing)
